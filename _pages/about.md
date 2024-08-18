@@ -30,6 +30,7 @@ Developing several years of programming experience in my spare time, I started w
 Educational background
 ======
 Master of Science, major in Software Development, School of Computing Science.  
+  
 Bachelor of Economics, major in Economics, School of Economics. With double-major and dual-degree in Economic Statistics, School of Statistics and Mathematics.  
 
 How to edit your site's GitHub repository
