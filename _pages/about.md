@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "费天择"
+title: "About me1"
 author_profile: true
 redirect_from: 
   - /about/
