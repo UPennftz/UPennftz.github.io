@@ -26,9 +26,10 @@ author:
   pronouns         : # example: "他 he/him/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "浙江杭州 Hangzhou, Zhejiang"
-  employer         : "格拉斯哥大学University of Glasgow"
+  employer         : "格拉斯哥大学 UGlasgow"
   uri              : # URL
-  email            : "ftz2world@163.com | internationalplat573@gmail.com" 
+  email            : "ftz2world@163.com" 
+  email            : "internationalplat573@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
