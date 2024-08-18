@@ -15,7 +15,7 @@ redirect_from:
 * 学士，浙江工商大学经济学院，经济学（[拔尖人才创新班](https://econet.zjgsu.edu.cn/2023/1218/c2227a160361/page.htm)），2021
 * 学士，浙江工商大学统计与数学学院，统计学（[双学位](http://tjjy.zjgsu.edu.cn/class.asp?nid=15)），2021
 
-实习经验
+实习经历
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
