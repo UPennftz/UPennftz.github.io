@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-教育背景Education
+教育背景
 ======
 * 硕士，格拉斯哥大学计算机科学学院，计算机科学与技术[（软件开发）](https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/)，2024
 * 学士，浙江工商大学经济学院，[经济学（拔尖人才创新班）](https://econet.zjgsu.edu.cn/2023/1218/c2227a160361/page.htm)，2021
 * 学士，浙江工商大学统计与数学学院，[统计学（双学位）](http://tjjy.zjgsu.edu.cn/class.asp?nid=15)，2021
 
-Work experience
+实习经验
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -32,7 +32,16 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+项目经历
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3Skil
+
+科研经历
 ======
 * Skill 1
 * Skill 2
@@ -40,25 +49,12 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+综合技能
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Skill 1
+* 软件：
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* 英语：雅思6.5（PTE63），六级，国际人才英语考试初级
