@@ -9,20 +9,23 @@ redirect_from:
 
 I am a fast learner with a strong internal drive to maintain a habit of lifelong learning. The three areas in which I have foundational expertise are Economics, Statistics, and Computer Science. My passion for state-of-the-art technology transcends my specialization and drives me to explore various fields. Currently, my main interest is in the intersection of data analytics and fintech, and I am primarily self-taught in anti-money laundering and risk control.
 
-A data-driven personal website
+Academic Achievements
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Mathematics and Statistics: 
+Advanced studies in calculus, linear algebra, probability theory, time series analysis, multivariate statistical analysis, statistical inference, statistical decision-making, and data mining. Received the Meritorious Winner award at the 2020 MCM/ICM (Mathematical Contest In Modeling and Interdisciplinary Contest In Modeling), as well as one second-prize and two third-prizes in math-related competitions.  
+
+Economics and Finance: 
+Completed coursework in advanced macroeconomics (Romer), advanced microeconomics (Varian), econometrics (Woodridge), financial statistics, game theory, mathematical economics, causal inference, and quasi-experimental measurement. Frequently utilized models include factor analysis, MANOVA (Multivariate Analysis of Variance), and PSM-DID (Propensity Score Matching with Difference-in-Differences).
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Programming Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+For my postgraduate studies, I expanded my knowledge with Java, Python, and SQL, and proactively engaged in teamwork, utilizing platforms like GitLab and GitHub to manage and collaborate on group projects.  
+  
+During my undergraduate years, I studied C, R, SAS, SPSS, and Stata.
+  
+  Developing several years of programming experience in my spare time, I started with Pascal and Visual Basic during middle school.
 
 Site-wide configuration
 ------
