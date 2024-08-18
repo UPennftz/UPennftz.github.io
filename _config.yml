@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/profile.png"
+  avatar           : "profile.png"
   name             : "费天择 Felix Tianze Fei"
   pronouns         : "他 He/His/Him"  
   bio              : "计算机硕士、统计学学士、经济学学士"
