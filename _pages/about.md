@@ -11,13 +11,14 @@ I am a fast learner with a strong internal drive to maintain a habit of lifelong
 
 Academic Achievements
 ======
-Mathematics and Statistics: 
-------
-Advanced studies in calculus, linear algebra, probability theory, time series analysis, multivariate statistical analysis, statistical inference, statistical decision-making, and data mining. Received the Meritorious Winner award at the 2020 MCM/ICM (Mathematical Contest In Modeling and Interdisciplinary Contest In Modeling), as well as one second-prize and two third-prizes in math-related competitions.  
 
-Economics and Finance: 
+Mathematics and Statistics:
 ------
-Completed coursework in advanced macroeconomics (Romer), advanced microeconomics (Varian), econometrics (Woodridge), financial statistics, game theory, mathematical economics, causal inference, and quasi-experimental measurement. Frequently utilized models include factor analysis, MANOVA (Multivariate Analysis of Variance), and PSM-DID (Propensity Score Matching with Difference-in-Differences).  
+Advanced studies in calculus, linear algebra, probability theory, time series analysis, multivariate statistical analysis, statistical inference, statistical decision-making, and data mining. Received the Meritorious Winner award at the 2020 MCM/ICM (Mathematical Contest In Modeling and Interdisciplinary Contest In Modeling), as well as one second-prize and two third-prizes in math-related competitions.
+
+Economics and Finance:
+------
+Completed coursework in advanced macroeconomics (Romer), advanced microeconomics (Varian), econometrics (Woodridge), financial statistics, game theory, mathematical economics, causal inference, and quasi-experimental measurement. Frequently utilized models include factor analysis, MANOVA (Multivariate Analysis of Variance), and PSM-DID (Propensity Score Matching with Difference-in-Differences).
 
 Programming Experience
 ======
