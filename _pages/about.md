@@ -11,6 +11,7 @@ I am a fast learner with a strong internal drive to maintain a habit of lifelong
 
 Academic Achievements
 ======
+
 Mathematics and Statistics: 
 ------
 Advanced studies in calculus, linear algebra, probability theory, time series analysis, multivariate statistical analysis, statistical inference, statistical decision-making, and data mining. Received the Meritorious Winner award at the 2020 MCM/ICM (Mathematical Contest In Modeling and Interdisciplinary Contest In Modeling), as well as one second-prize and two third-prizes in math-related competitions.  
