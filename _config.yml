@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "111.jpeg"
   name             : "费天择 Felix Tianze Fei"
-  pronouns         : # example: "他 he/him/his"  
+  pronouns         : "他 he/him/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "浙江杭州 Hangzhou"
-  employer         : "格拉斯哥大学 UofGlasgow"
+  employer         : "UofGlasgow"
   uri              : # URL
   email            : "internationalplat573@gmail.com" 
 
