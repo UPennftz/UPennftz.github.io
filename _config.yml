@@ -26,16 +26,16 @@ author:
   pronouns         : # example: "他 he/him/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "浙江杭州 Hangzhou, Zhejiang"
-  employer         : "格拉斯哥大学 UGlasgow"
+  employer         : "格拉斯哥大学 UofGlasgow"
   uri              : # URL
   email            : "ftz2world@163.com" 
   email            : "internationalplat573@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : # URL
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-4493-272X"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
