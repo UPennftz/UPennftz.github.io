@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-## 曾获奖项
+## 各类奖项
 
 * 数学类竞赛
   * 2020年美国大学生数学建模竞赛一等奖
