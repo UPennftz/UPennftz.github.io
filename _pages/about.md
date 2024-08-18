@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fast learner with a strong internal drive to maintain a habit of lifelong learning. The three areas in which I have foundational expertise are Economics, Statistics, and Computer Science. My passion for state-of-the-art technology transcends my specialization and drives me to explore various fields. Currently, my main interest is in the intersection of data analytics and fintech, and I am primarily self-taught in anti-money laundering and risk control.
+I am a fast learner with a strong internal drive to maintain a habit of lifelong learning. The three areas in which I have foundational expertise are Economics, Statistics, and Computer Science. My passion for state-of-the-art technology transcends my specialization and drives me to explore various fields. Currently, my main interest is in the intersection of data analytics and fintech, and I am primarily self-taught in anti-money laundering and risk control.  
 
 Academic Achievements
 ======
@@ -17,20 +17,20 @@ Advanced studies in calculus, linear algebra, probability theory, time series an
 
 Economics and Finance: 
 ------
-Completed coursework in advanced macroeconomics (Romer), advanced microeconomics (Varian), econometrics (Woodridge), financial statistics, game theory, mathematical economics, causal inference, and quasi-experimental measurement. Frequently utilized models include factor analysis, MANOVA (Multivariate Analysis of Variance), and PSM-DID (Propensity Score Matching with Difference-in-Differences).
+Completed coursework in advanced macroeconomics (Romer), advanced microeconomics (Varian), econometrics (Woodridge), financial statistics, game theory, mathematical economics, causal inference, and quasi-experimental measurement. Frequently utilized models include factor analysis, MANOVA (Multivariate Analysis of Variance), and PSM-DID (Propensity Score Matching with Difference-in-Differences).  
 
 Programming Experience
 ======
 For my postgraduate studies, I expanded my knowledge with Java, Python, and SQL, and proactively engaged in teamwork, utilizing platforms like GitLab and GitHub to manage and collaborate on group projects.  
   
-During my undergraduate years, I studied C, R, SAS, SPSS, and Stata.
+During my undergraduate years, I studied C, R, SAS, SPSS, and Stata.  
   
-Developing several years of programming experience in my spare time, I started with Pascal and Visual Basic during middle school.
+Developing several years of programming experience in my spare time, I started with Pascal and Visual Basic during middle school.  
 
 Educational background
 ======
-🎓Master of Science, major in Software Development, School of Computing Science.
-🎓🎓Bachelor of Economics, major in Economics, School of Economics. With double-major and dual-degree in Economic Statistics, School of Statistics and Mathematics.
+Master of Science, major in Software Development, School of Computing Science.  
+Bachelor of Economics, major in Economics, School of Economics. With double-major and dual-degree in Economic Statistics, School of Statistics and Mathematics.  
 
 How to edit your site's GitHub repository
 ------
