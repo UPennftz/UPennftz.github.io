@@ -28,7 +28,6 @@ author:
   location         : "浙江杭州 Hangzhou"
   employer         : "格拉斯哥大学 UofGlasgow"
   uri              : # URL
-  email            : "ftz2world@163.com" 
   email            : "internationalplat573@gmail.com" 
 
   # Academic websites
@@ -44,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "UPennftz"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
