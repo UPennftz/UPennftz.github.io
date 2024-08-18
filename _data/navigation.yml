@@ -11,10 +11,10 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "自学网课"
+  - title: "旁听自学"
     url: /teaching/    
     
-  - title: "个人荣誉"
+  - title: "荣誉奖项"
     url: /portfolio/
         
   # - title: "Blog Posts"
