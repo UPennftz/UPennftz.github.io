@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[LinkedIn主页](https://www.linkedin.com/in/tianzefei/)  
+[点击打开LinkedIn英文主页](https://www.linkedin.com/in/tianzefei/)  
 
 * 三重交叉学科背景，擅长自学，具备问题解决能力，目前正在自学fintech和data
 * 对数据敏感，数学基础扎实，熟悉指标设计，多次参与数学竞赛和建模竞赛并获奖
