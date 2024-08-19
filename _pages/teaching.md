@@ -19,5 +19,5 @@ author_profile: true
   * 全国大学生数学竞赛非数学专业三等奖
     * 浙江省大学生高等数学竞赛经管类二等奖（2次）
 * Coursera
-  * [比特币和加密货币技术 普林斯顿大学](https://coursera.org/share/42554bab880a97c1b61910369631b4dd)
+  * [比特币和加密货币技术(普林斯顿大学)](https://coursera.org/share/42554bab880a97c1b61910369631b4dd)
 
