@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-# 旁听
+## 旁听
 * 格拉斯哥大学
   * [密码学算法与系统安全](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5079)
   * [计算机安全基础](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5063)
   * [计算机取证科学与法庭证据陈述](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5080)
 
-# 自学
-## 金融科技
+## 自学
+### 金融科技
 * Coursera
   * [比特币和加密货币技术 普林斯顿大学](https://coursera.org/share/42554bab880a97c1b61910369631b4dd)
 * Linkedin
@@ -23,7 +23,7 @@ author_profile: true
   * 使用Python、R和Stata的算法交易与金融模型基础
   * 经济、银行与金融数据科学
  
-## 数据分析
+### 数据分析
 * Linkedin
   * 学习Hadoop
   * Python数据工程：从初级到高级
@@ -47,7 +47,7 @@ author_profile: true
     * 学习数据科学：基础入门
     * 使用Microsoft 365管理数据
    
-## 其他技术
+### 其他技术
 * Linkedin
   * GitHub职业基础专业证书
     * 实用GitHub Actions
