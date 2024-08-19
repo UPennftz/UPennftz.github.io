@@ -23,7 +23,11 @@ author_profile: true
   * 使用Python、R和Stata的算法交易与金融模型基础培训
   * 经济、银行与金融数据科学（2017年巴顿·波尔森）
  
+Academic Achievements
+======
 
+Mathematics and Statistics:
+------
   * 学习Hadoop
   * Python数据工程：从初级到高级
   * Anaconda Python数据科学专业证书
