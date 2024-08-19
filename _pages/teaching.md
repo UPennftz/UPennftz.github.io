@@ -18,9 +18,9 @@ author_profile: true
 * Coursera
   * [比特币和加密货币技术 普林斯顿大学](https://coursera.org/share/42554bab880a97c1b61910369631b4dd)
 * Linkedin
-  * 金融科技中的AI基础培训
-  * 金融科技安全基础培训
-  * 使用Python、R和Stata的算法交易与金融模型基础培训
+  * 金融科技中的AI基础
+  * 金融科技安全基础
+  * 使用Python、R和Stata的算法交易与金融模型基础
   * 经济、银行与金融数据科学
  
 ## 数据分析
@@ -54,7 +54,8 @@ author_profile: true
     * 实用GitHub 项目管理与协作
     * 实用GitHub Copilot
     * 实用GitHub代码搜索
-  * Google 专业云开发者考试技巧
+  * Google专业云开发者考试技巧
+  * 在Python中训练神经网络
   * 使用Python构建计算机视觉应用
   * 成为一名人工智能工程师
     * AI工程基础：驾驭技术革命
