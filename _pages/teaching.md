@@ -18,6 +18,14 @@ author_profile: true
 * Coursera
   * [比特币和加密货币技术 普林斯顿大学](https://coursera.org/share/42554bab880a97c1b61910369631b4dd)
 * Linkedin
+  * 金融科技中的AI基础培训
+  * 金融科技安全基础培训
+  * 使用Python、R和Stata的算法交易与金融模型基础培训
+  * 经济、银行与金融数据科学（2017年巴顿·波尔森）
+ 
+
+  * 学习Hadoop
+  * Python数据工程：从初级到高级
   * Anaconda Python数据科学专业证书
     * 数据科学入门
     * 统计学基础1：基本原理
@@ -25,18 +33,20 @@ author_profile: true
     * 学习Python
     * Python数据分析
   * GitHub职业基础专业证书
-    * 实用 GitHub Actions
-    * 实用 GitHub 项目管理与协作
-    * 实用 GitHub Copilot
-    * 实用 GitHub 代码搜索
-  * 成为一名AI工程师
-    * 人工智能工程基础：驾驭技术革命
+    * 实用GitHub Actions
+    * 实用GitHub 项目管理与协作
+    * 实用GitHub Copilot
+    * 实用GitHub代码搜索
+  * Google 专业云开发者考试技巧
+  * 使用Python构建计算机视觉应用
+  * 成为一名人工智能工程师
+    * AI工程基础：驾驭技术革命
     * Python机器学习基础
     * Python全栈深度学习
     * 使用Python构建计算机视觉应用
     * 在Python中训练神经网络
     * 深度学习基础：使用TensorFlow进行自然语言处理
-    * 高级Python项目：构建人工智能应用
+    * 高级Python项目：构建AI应用
   * 商业分析职业基础（微软和领英）
     * 什么是商业分析
     * 商业分析基础
@@ -50,5 +60,5 @@ author_profile: true
     * 使用Microsoft 365管理项目
     * 学习数据科学：基础入门
     * 使用Microsoft 365管理数据
-   
+
 
