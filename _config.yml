@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Felix Tianze Fei"
-  pronouns         : "男性"  
+  pronouns         : # "男性"  
   bio              : "计算机、统计学、经济学"
   location         : "中国浙江省"
   employer         : # URL "格拉斯哥大学 UofGlasgow"
