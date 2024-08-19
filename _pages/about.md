@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[LinkedIn主页](https://www.linkedin.com/in/tianzefei/)
+[LinkedIn主页](https://www.linkedin.com/in/tianzefei/)  
 I am a fast learner with a strong internal drive to maintain a habit of lifelong learning. The three areas in which I have foundational expertise are Economics, Statistics, and Computer Science. My passion for state-of-the-art technology transcends my specialization and drives me to explore various fields. Currently, my main interest is in the intersection of data analytics and fintech, and I am primarily self-taught in anti-money laundering and risk control.  
 
 Academic Achievements
