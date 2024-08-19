@@ -12,8 +12,8 @@ redirect_from:
 教育背景
 ======
 * 硕士，格拉斯哥大学[计算机科学学院](https://www.gla.ac.uk/schools/computing/)，计算机科学与技术（[软件开发](https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/)），2024
-* 学士，浙江工商大学经济学院，经济学（[创新班](https://econet.zjgsu.edu.cn/2023/1218/c2227a160361/page.htm)），2021
-* 学士，浙江工商大学统计与数学学院，统计学（[双学位](http://tjjy.zjgsu.edu.cn/class.asp?nid=15)），2021
+* 学士，浙江工商大学[经济学院](https://econet.zjgsu.edu.cn/main.htm)，经济学（[创新班](https://econet.zjgsu.edu.cn/2023/1218/c2227a160361/page.htm)），2021
+* 学士，浙江工商大学[统计与数学学院](http://tjjy.zjgsu.edu.cn/)，统计学（[双学位](http://tjjy.zjgsu.edu.cn/class.asp?nid=15)），2021
 
 实习经历
 ======
