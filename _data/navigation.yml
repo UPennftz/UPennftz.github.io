@@ -10,7 +10,8 @@ main:
 
   # - title: "Talks"
   #   url: /talks/    
-
+  - title: "简历CV"
+    url: /cv/
   - title: "旁听自学"
     url: /teaching/    
     
@@ -20,8 +21,7 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "简历CV"
-    url: /cv/
+
     
   # - title: "Guide"
   #   url: /markdown/
