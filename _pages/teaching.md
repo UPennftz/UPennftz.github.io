@@ -59,7 +59,7 @@ author_profile: true
    
 ### 其他技术
 * Linkedin
-  * [GitHub职业基础专业证书](https://www.linkedin.com/learning/certificates/81b5e5a0261a9a389690012ca71033869496da86b282798abe671cc93a26c1db?trk=share_certificate)
+  * GitHub职业基础专业证书
     * 实用GitHub Actions
     * 实用GitHub 项目管理与协作
     * 实用GitHub Copilot
