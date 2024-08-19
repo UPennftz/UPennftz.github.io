@@ -5,18 +5,26 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "简历CV"
+    url: /cv/
+  - title: "奖项荣誉"
+    url: /portfolio/
+  - title: "终身学习"
+    url: /teaching/   
+
+
+
+
+
+
   # - title: "Publications"
   #   url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
-  - title: "简历CV"
-    url: /cv/
-  - title: "旁听自学"
-    url: /teaching/    
+ 
     
-  - title: "荣誉奖项"
-    url: /portfolio/
+
         
   # - title: "Blog Posts"
   #   url: /year-archive/
