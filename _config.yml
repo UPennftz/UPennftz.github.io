@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN" #"en-US"
+locale                   : "en-US"
 title                    : "点击这里进入主页"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Felix Tianze Fei"
   pronouns         : # "男性"  
-  bio              : "计算机+统计学+经济学背景"
+  bio              : "计算机、统计学与经济学复合背景"
   location         : "中国浙江省"
   employer         : # URL "格拉斯哥大学 UofGlasgow"
   uri              : # URL
