@@ -22,6 +22,11 @@ author_profile: true
     * 金融科技安全与监管（监管科技）
     * 金融科技风险管理
     * 金融科技颠覆性创新：对社会的影响
+  * [金融服务专业化的数字化转型 哥本哈根商学院](https://www.coursera.org/specializations/digital-transformation-financial-services)
+    * 金融服务数字化竞争
+    * 金融科技与金融服务转型
+    * 创新战略：制定您的金融科技战略
+    * 金融服务的数字化转型（顶点项目）
 * Linkedin
   * 金融科技中的AI基础
   * 金融科技安全基础
