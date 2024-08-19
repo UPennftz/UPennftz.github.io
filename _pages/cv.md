@@ -10,10 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ## 教育背景
-* 硕士，格拉斯哥大学[计算机科学学院](https://www.gla.ac.uk/schools/computing/)，计算机科学与技术（[软件开发](https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/)），2024
+* 硕士，英国格拉斯哥大学[计算机科学学院](https://www.gla.ac.uk/schools/computing/)，计算机科学与技术（[软件开发](https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/)），2024
 * 学士，浙江工商大学[经济学院](https://econet.zjgsu.edu.cn/main.htm)，经济学（[创新班](https://econet.zjgsu.edu.cn/2023/1218/c2227a160361/page.htm)），2021
 * 学士，浙江工商大学[统计与数学学院](http://tjjy.zjgsu.edu.cn/)，统计学（[双学位](http://tjjy.zjgsu.edu.cn/class.asp?nid=15)），2021
-* 夏校，宾夕法尼亚大学[商业交流项目](https://www.sas.upenn.edu/elpbusiness/programs.htm)，2019
+* 夏校，美国宾夕法尼亚大学[商业交流项目](https://www.sas.upenn.edu/elpbusiness/programs.htm)，2019
 
 ## 实习经历
 ### [环亚数字经济研究院](http://www.rmlt.com.cn/2020/1112/598710.shtml) & [东盟经济研究院](http://www.asean-china-center.org/2019-10/25/c_1210327334.htm)
