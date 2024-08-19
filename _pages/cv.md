@@ -36,12 +36,12 @@ redirect_from:
   * 用户管理：实现用户登录注册、资料编辑等账户基本功能。支持管理员进行权限控制和内容审核。
   * 社交互动：用户可以对帖子进行点赞、评论和分享，增加用户间的互动。
 
-### TripTie
+### [TripTie](https://github.com/UPennftz/TripTie)
 * 2024年01月-2024年04月
 * 技术栈：Django, Python, HTML, CSS, Bootstrap, JavaScript, AJAX, SQL, API 
 * 项目概要：融合Django架构与Railway云平台部署的可扩展旅行生态平台探索。
 
-### Blog
+### [Blog](https://github.com/UPennftz/Blog)
 * 2024年01月-2024年04月
 * 技术栈：Vue, Django, Python, JavaScript, HTML, CSS, SQL
 * 项目概要：创新技术集成与交互设计——基于Vue和Django的前后端分离社交平台的构建与实践。
