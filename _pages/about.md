@@ -10,7 +10,7 @@ redirect_from:
 [点击这里进入LinkedIn](https://www.linkedin.com/in/tianzefei/)  
 
 * 三重交叉学科背景，擅长自学，具备问题解决能力，目前自学领域为fintech和data
-* 对数据敏感，数学基础扎实，熟悉指标设计，多次参与数学竞赛和建模竞赛并获奖
+* 对数据敏感，数学基础扎实，熟悉指标设计，多次数学竞赛和数学建模竞赛获奖
 * 逻辑缜密，自学能力强，具备抽象思维，工程应用能力强，学习过Pascal、C、Java、Python多门语言
 * 掌握计算机体系结构的基本概念，学习过[Sigma16](https://jtod.github.io/home/Sigma16/)汇编语言
 * 善于合作，有过合作开发经验，使用过GitHub和Gitlab进行项目管理和版本控制
