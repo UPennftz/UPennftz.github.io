@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "费天择主页Homepage"
+title                    : "Felix Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : ""
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "费天择 Felix Tianze Fei"
+  name             : "Felix Tianze Fei"
   pronouns         : "男性"  
   bio              : "计算机、统计学、经济学"
   location         : "中国浙江省"
