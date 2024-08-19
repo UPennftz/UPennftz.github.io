@@ -16,7 +16,7 @@ redirect_from:
 * 夏校，美国宾夕法尼亚大学[商业交流项目](https://www.sas.upenn.edu/elpbusiness/programs.htm)，2019
 
 ## 实习经历
-###  [东盟经济研究院](http://www.asean-china-center.org/2019-10/25/c_1210327334.htm) & [环亚数字经济研究院](http://www.rmlt.com.cn/2020/1112/598710.shtml)
+###  [东盟经济研究院（图胜科技与与绍兴文理学院元培学院共建）](http://www.asean-china-center.org/2019-10/25/c_1210327334.htm) & [杭州环亚数字经济研究院（数洋科技）](http://www.rmlt.com.cn/2020/1112/598710.shtml)
 * 数据分析与开发
 * 2021年02月-2021年04月
 * 参与经济大数据智能分析系统项目，查看宏观经济数据、细分产业数据和金融数据，接入[国际智能数据有限公司(新加坡)](https://www.hangzhou.gov.cn/art/2021/11/26/art_1229505914_3973091.html)的数据分析工具，补充和校对经济与统计学分析过程、数据表和可视化图。
