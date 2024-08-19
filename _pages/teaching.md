@@ -37,13 +37,13 @@ author_profile: true
 * Linkedin
   * 学习Hadoop
   * Python数据工程：从初级到高级
-  * Anaconda Python数据科学专业证书
+  * [Anaconda Python数据科学专业证书](https://www.linkedin.com/learning/certificates/8b97bc64617c24359ddb2f6e5e46d6be88c01dfe45e12d142eca30a2d0d158b1?trk=share_certificate)
     * 数据科学入门
     * 统计学基础1：基本原理
     * 统计学基础3：使用数据集
     * 学习Python
     * Python数据分析
-  * 商业分析职业基础（微软和领英）
+  * [商业分析职业基础（微软和领英）](https://www.linkedin.com/learning/certificates/bbce83146dfc9a2f3b91972737b13f697361ecf186742ee1d7c46291ba809960?trk=share_certificate)
     * 什么是商业分析
     * 商业分析基础
     * 敏捷需求基础
@@ -59,7 +59,7 @@ author_profile: true
    
 ### 其他技术
 * Linkedin
-  * GitHub职业基础专业证书
+  * [GitHub职业基础专业证书](https://www.linkedin.com/learning/certificates/81b5e5a0261a9a389690012ca71033869496da86b282798abe671cc93a26c1db?trk=share_certificate)
     * 实用GitHub Actions
     * 实用GitHub 项目管理与协作
     * 实用GitHub Copilot
