@@ -17,6 +17,11 @@ author_profile: true
 ### 金融科技
 * Coursera
   * [比特币和加密货币技术 普林斯顿大学](https://coursera.org/share/42554bab880a97c1b61910369631b4dd)
+  * [金融科技：金融行业转型与监管专业化 香港科技大学](https://www.coursera.org/specializations/fintech)
+    * 金融科技基础和概述
+    * 金融科技安全与监管（监管科技）
+    * 金融科技风险管理
+    * 金融科技颠覆性创新：对社会的影响
 * Linkedin
   * 金融科技中的AI基础
   * 金融科技安全基础
