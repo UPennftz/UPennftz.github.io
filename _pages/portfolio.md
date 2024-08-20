@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## 学生（干部）经历
+## 校园经历
 * 校学生会组织部部长
 * 校学生科技创新协会宣传部干事
 * 院辩论队队员
