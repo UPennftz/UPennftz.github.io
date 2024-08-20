@@ -26,7 +26,7 @@ author:
   pronouns         : # "男性"  
   bio              : "计算机、统计学与经济学复合背景"
   location         : "中国浙江省"
-  employer         : # URL "格拉斯哥大学 UofGlasgow"
+  employer         : # 
   uri              : # URL
   email            : "internationalplat573@gmail.com" 
 
@@ -42,7 +42,7 @@ author:
   # Repositories and software development
   bitbucket        : "felixsdeworkspace/myrepository/src/main/" # Username - Update with your username on the site
   codepen          : "felixsde"
-  dribbble         : "felixsde"
+  dribbble         : # 
   github           : "UPennftz"
   kaggle           : "felixsde"  
   stackoverflow    : "26869201/felix" # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
