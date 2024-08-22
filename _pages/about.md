@@ -6,8 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
   
 [点击查看个人简历(中文)](https://upennftz.github.io/cv/)  
+
+  
 [点击进入LinkedIn(英文)](https://www.linkedin.com/in/tianzefei/)  
 
 
