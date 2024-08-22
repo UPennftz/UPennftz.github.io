@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "保持终身学习的习惯"
+title: "自学及相关经历"
 permalink: /teaching/
 author_profile: true
 ---
