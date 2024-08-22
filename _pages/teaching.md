@@ -43,7 +43,7 @@ author_profile: true
     * 统计学基础3：使用数据集
     * 学习Python
     * Python数据分析
-  * [商业分析职业基础（微软和领英）](https://www.linkedin.com/learning/certificates/bbce83146dfc9a2f3b91972737b13f697361ecf186742ee1d7c46291ba809960?trk=share_certificate)
+  * [商业分析职业基础（微软 领英）](https://www.linkedin.com/learning/certificates/bbce83146dfc9a2f3b91972737b13f697361ecf186742ee1d7c46291ba809960?trk=share_certificate)
     * 什么是商业分析
     * 商业分析基础
     * 敏捷需求基础
@@ -64,7 +64,7 @@ author_profile: true
     * 实用GitHub 项目管理与协作
     * 实用GitHub Copilot
     * 实用GitHub代码搜索
-  * Google专业云开发者考试技巧
+  * 谷歌云GCP开发人员专家认证考试技巧
   * 在Python中训练神经网络
   * 使用Python构建计算机视觉应用
   * 成为一名人工智能工程师
