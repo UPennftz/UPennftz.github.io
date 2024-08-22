@@ -12,7 +12,7 @@ redirect_from:
 
   
 [点击进入LinkedIn(英文)](https://www.linkedin.com/in/tianzefei/)  
-
+  
 
 * 三重交叉学科背景，擅长自学，具备问题解决能力，目前自学领域为金融科技fintech和数据data
 * 对数据敏感，擅长设计测度指标和构建评价体系；熟悉经济和统计理论，擅长解构复杂数据并提供清晰的实际解释和意义
