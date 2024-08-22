@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "旁听及自学相关经历"
+title: "旁听及自学课程"
 permalink: /teaching/
 author_profile: true
 ---
