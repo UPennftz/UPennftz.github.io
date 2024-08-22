@@ -57,7 +57,7 @@ author_profile: true
     * 学习数据科学：基础入门
     * 使用Microsoft 365管理数据
    
-### 其他技术
+### 开发技术
 * Linkedin
   * GitHub职业基础专业证书
     * 实用GitHub Actions
