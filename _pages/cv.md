@@ -68,7 +68,7 @@ redirect_from:
 * 英语水平：能够英文环境下工作，有英国和美国全英文学习经历，雅思6.5，英语六级，国际人才英语考试初级
 * 编程语言：C, Git, HTML, Java, JavaScript, Office, Python, R, SAS, Stata, SPSS, SQL, Vue
 * 数据模型：  
-  > 曾使用过
+  > 曾使用过  
   > 因果推断（PSM-DID 断点RDD 方差MANOVA）  
   > 时序（ARMA/ARIMA-GARCH）  
   > 多元（主成分PCA/PCR 因子FA）  
