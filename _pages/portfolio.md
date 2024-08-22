@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "所获各类奖项与荣誉"
+title: "经历奖项与荣誉"
 permalink: /portfolio/
 author_profile: true
 ---
