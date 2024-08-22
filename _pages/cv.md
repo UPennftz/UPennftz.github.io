@@ -71,9 +71,7 @@ redirect_from:
   > 因果推断（PSM-DID 断点RDD 方差MANOVA）时序（ARMA/ARIMA-GARCH） 多元（主成分PCA/PCR 因子FA） 计量（Bootstrap自抽样 逐步回归 逻辑回归 固定/混合效应模型） 元胞自动机（车流预测）等
   >   
   > 并学习过计量(广义GLS 结构方程SEM), 时序/随机/金统(马尔可夫链 VaR模型 几何布朗运动), 多元(聚类 判别 对应分析 典型相关分析), 数仓与数据挖掘(关联Apriori 决策树剪枝ID3/C4.5/C5.0 贝叶斯网络TANBayes BP神经网络)等
-
-    
-<table>
+  > <table>
     <tr>
         <td>行1列1</td> 
         <td>行1列2</td> 
@@ -89,4 +87,7 @@ redirect_from:
         <td>行3列3</td>    
     </tr>
 </table>
+
+
+    
 
