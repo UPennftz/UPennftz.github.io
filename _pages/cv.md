@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ## 个人信息
 * 费天择 Tianze Fei
-* 联系: 187-5812-3024
+* 电话: 18758-123-024
 * 邮箱: ftz2world@163.com
 
 ## 教育背景
