@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "这是主页"
+title: "主页个人介绍"
 author_profile: true
 redirect_from: 
   - /about/
