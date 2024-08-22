@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
   
-[点击查看个人简历(中文)](https://upennftz.github.io/cv/)
-  
-[点击进入LinkedIn(英文)](https://www.linkedin.com/in/tianzefei/)  
+[点击查看个人简历(中文)](https://upennftz.github.io/cv/)    [点击进入LinkedIn(英文)](https://www.linkedin.com/in/tianzefei/)  
 
 
 * 三重交叉学科背景，擅长自学，具备问题解决能力，目前自学领域为金融科技fintech和数据data
