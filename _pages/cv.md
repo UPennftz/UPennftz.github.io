@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+## 个人信息
+* 费天择
+* 男
+* 25岁
+* 浙江人
 
 ## 教育背景
 * 硕士，英国格拉斯哥大学[计算机科学学院](https://www.gla.ac.uk/schools/computing/)，计算机科学与技术（[软件开发](https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/)），2023 - 2024
