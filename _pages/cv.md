@@ -50,7 +50,7 @@ redirect_from:
 ## 项目经历
 ### Forum
 * 2024年06月-2024年08月
-* 技术栈：Java, Spring Boot, Maven, SQL, Vue.js, Nuxt.js, HTML, CSS, JavaScript, Bootstrap, Babel, ESLint 
+* 技术栈：Java, Spring Boot, SQL, Vue, Nuxt 
 * 项目概述：从最小可行产品角度出发，独立创建了一个综合性的校园论坛和社区交流平台，支持学生、教职工以及校园管理人员进行信息共享、讨论和管理。
 * 核心功能
   * 信息交互：用户可以发表帖子、回复、讨论，支持图片视频形式。可通过API实时接收最新重要通知。
@@ -59,12 +59,12 @@ redirect_from:
 
 ### [TripTie](https://github.com/UPennftz/TripTie)
 * 2024年01月-2024年04月
-* 技术栈：Django, Python, HTML, CSS, Bootstrap, JavaScript, AJAX, SQL, API 
+* 技术栈：JavaScript, Bootstrap, Django, SQL 
 * 项目概要：融合Django架构与Railway云平台部署的可扩展旅行生态平台探索。
 
 ### [Blog](https://github.com/UPennftz/Blog)
 * 2024年01月-2024年04月
-* 技术栈：Vue, Django, Python, JavaScript, HTML, CSS, SQL
+* 技术栈：Vue, Django, SQL
 * 项目概要：创新技术集成与交互设计——基于Vue和Django的前后端分离社交平台的构建与实践。
 
 ## 技能
