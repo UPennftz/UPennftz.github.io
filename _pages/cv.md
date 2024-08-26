@@ -71,19 +71,12 @@ redirect_from:
 * 英语水平：适应英文环境工作，有英美学习经历，雅思6.5，英语六级，国际人才英语考试初级
 * 编程语言：Git, Java, JavaScript, Office, R, SAS, Stata, SPSS, SQL, Vue
 * 数据模型：  
-  > 使用过  
-  > 因果推断（PSM-DID 断点RDD 方差MANOVA）  
-  > 时序（ARMA/ARIMA-GARCH）  
+  > 元胞自动机（车流预测）、金融风控评分卡模型等
+  > 因果推断（PSM-DID 断点RDD 方差MANOVA）
+  > 时序/金统/随机（ARMA/ARIMA-GARCH 马尔可夫链 VaR模型 几何布朗运动）  
+  > 数仓与数据挖掘（关联Apriori 决策树剪枝ID3/C4.5/C5.0 贝叶斯网络TANBayes BP神经网络）等
   > 多元（主成分PCA/PCR 因子FA）  
   > 计量（Bootstrap自抽样 逐步回归 逻辑回归 固定/混合效应模型）  
-  > 元胞自动机（车流预测）等  
-  >   
-  > 学习过  
-  > 计量（广义GLS 结构方程SEM）  
-  > 金统/随机（马尔可夫链 VaR模型 几何布朗运动）  
-  > 多元（聚类 判别 对应 典型相关）  
-  > 数仓与数据挖掘（关联Apriori 决策树剪枝ID3/C4.5/C5.0 贝叶斯网络TANBayes BP神经网络）等  
-
 
     
 
