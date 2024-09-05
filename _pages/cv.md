@@ -51,7 +51,7 @@ redirect_from:
 ### [Forum](https://github.com/UPennftz/Forum)
 * 2024年06月-2024年09月
 * 技术栈：Vue.js, Nuxt.js, Java, Maven, SQL 
-* 项目概要：校园交流新平台——集成Vue、Nuxt和Spring Boot的模块化前后端协同与微服务架构MVP解决方案。
+* 项目概要：基于MVP构建的前后端分离的模块化的校园社交网络设计
 
 ### [TripTie](https://github.com/UPennftz/TripTie)
 * 2024年01月-2024年04月
