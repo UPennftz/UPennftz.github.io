@@ -20,7 +20,7 @@ redirect_from:
 * 夏校，美国宾夕法尼亚大学[商业交流项目](https://www.sas.upenn.edu/elpbusiness/programs.htm)，2019
 
 ## 实习经历
-### 浙江图胜数字科技有限公司[1](http://www.asean-china-center.org/2019-10/25/c_1210327334.htm) [2](http://www.rmlt.com.cn/2020/1112/598710.shtml)
+### 浙江图胜数字科技有限公司 [[1](http://www.asean-china-center.org/2019-10/25/c_1210327334.htm)] [[2](http://www.rmlt.com.cn/2020/1112/598710.shtml)]
 * 数据分析与开发
 * 2021年02月-2021年04月
 * 参与图胜科技人工智能大数据分析平台建设，提取产业、宏观和金融数据，接入[国际智能数据(新加坡)](https://www.hangzhou.gov.cn/art/2021/11/26/art_1229505914_3973091.html)数据分析工具。发挥经济学和统计学复合背景，协助构建综合评价体系，优化测度指标计算。
