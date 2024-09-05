@@ -49,7 +49,7 @@ redirect_from:
 
 ## 项目经历
 ### [Forum](https://github.com/UPennftz/Forum)
-* 2024年06月-2024年09月
+* 2024年06月-2024年08月
 * 技术栈：Vue.js, Nuxt.js, Java, Maven, SQL 
 * 项目概要：基于MVP构建的前后端分离的模块化的校园社交网络设计
 
