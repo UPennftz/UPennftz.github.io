@@ -8,11 +8,9 @@ redirect_from:
 ---
 
   
-[点击查看个人简历(中文)  
-Click to my CV(Chinese)](https://upennftz.github.io/cv/)  
+[点击查看个人简历(中文)`    `Click to my CV(Chinese)](https://upennftz.github.io/cv/)  
   
-[点击进入LinkedIn(英文)  
-Click to my LinkedIn(English)](https://www.linkedin.com/in/tianzefei/)  
+[点击进入LinkedIn(英文)`    `Click to my LinkedIn(English)](https://www.linkedin.com/in/tianzefei/)  
   
 * 适应全英语工作环境，曾在英国格拉斯哥大学和美国宾夕法尼亚大学学习，雅思6.5，大学英语四六级和国际人才英语考试（初级）
 * 三重交叉学科背景，擅长自学，具备问题解决能力，目前自学领域为金融科技和数据相关，详细自学经历与项目请点击[这里](https://upennftz.github.io/teaching/)
