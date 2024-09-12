@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "主页"
+title                    : "主页Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   name             : "Felix Tianze Fei"
   pronouns         : # "男性"  
   bio              : "计算机,统计,经济三专业"
-  location         : "中国浙江省"
+  location         : "Zhejiang, China"
   employer         : # 
   uri              : # URL
   email            : "internationalplat573@gmail.com" 
