@@ -66,7 +66,7 @@ redirect_from:
 ## 软开项目经历
 ### 基于MVP构建的前后端分离的模块化的校园社交网络设计([代码](https://github.com/UPennftz/Forum))
 * 2024年06月-2024年08月
-* 技术栈：Vue.js, Nuxt.js, Java, Maven, SQL 
+* 技术栈：Vue.js, Nuxt.js, Java, Maven, SQL  
 * 项目概述：开发了一个社交分享平台。实现了用户注册、登录、内容发布、评论和点赞等交互功能。  
 * 关键贡献：  
 1. 背景：开发一个名为"SchoolForum"的在线平台，旨在实现学生与学校、学生之间的实时双向互动。此平台基于 Vue 和 Java 构建，解决现有应用只能单向传递信息的局限。  
