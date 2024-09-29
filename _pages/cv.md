@@ -100,7 +100,7 @@ redirect_from:
   > 元胞自动机（车流预测）等  
   > 因果推断（PSM-DID、断点RDD、方差MANOVA）  
   > 时序/金统/随机（ARMA/ARIMA-GARCH、马尔可夫链、VaR模型、几何布朗运动）  
-  > 机器学习/数据挖掘（Bootstrap自抽样、逐步回归、逻辑回归、Mini-batch梯度下降、关联Apriori、决策树剪枝ID3/C4.5/C5.0、贝叶斯网络TANBayes、BP神经网络）  
+  > 机器学习/数据挖掘（固定/混合效应模型、Bootstrap自抽样、逐步回归、逻辑回归、Mini-batch梯度下降、关联Apriori、决策树剪枝ID3/C4.5/C5.0、贝叶斯网络TANBayes、BP神经网络）  
   > 多元统计（主成分PCA/PCR、因子FA）
 
     
