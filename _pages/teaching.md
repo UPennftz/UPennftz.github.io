@@ -17,12 +17,12 @@ author_profile: true
 ### 金融科技
 * Coursera
   * [比特币和加密货币技术 普林斯顿大学](https://coursera.org/share/42554bab880a97c1b61910369631b4dd)
-  * [金融科技：金融行业转型与监管专业化 香港科技大学](https://www.coursera.org/specializations/fintech)
+  * [金融科技：金融行业转型与监管专业化 香港科技大学](https://coursera.org/share/e78d42005372f1c1db51d0114bcbc777)
     * 金融科技基础和概述
     * 金融科技安全与监管（监管科技）
     * 金融科技风险管理
     * 金融科技颠覆性创新：对社会的影响
-  * [金融服务专业化的数字化转型 哥本哈根商学院](https://www.coursera.org/specializations/digital-transformation-financial-services)
+  * [金融服务专业化的数字化转型 哥本哈根商学院](https://coursera.org/share/90582d69ac707dc05ad8bbe7deba3772)
     * 金融服务数字化竞争
     * 金融科技与金融服务转型
     * 创新战略：制定您的金融科技战略
