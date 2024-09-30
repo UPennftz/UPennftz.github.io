@@ -65,7 +65,7 @@ author_profile: true
     * 实用GitHub Copilot
     * 实用GitHub代码搜索
   * 谷歌云GCP开发人员专家认证考试指导
-  * 预览面向开发人员的谷歌云GCP基本培训
+  * 面向开发人员的谷歌云GCP基本培训
   * 在Python中训练神经网络
   * 使用Python构建计算机视觉应用
   * 成为一名人工智能工程师
