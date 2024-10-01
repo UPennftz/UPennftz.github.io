@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "主页个人介绍intro"
+title: "主页"
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,8 +18,8 @@ redirect_from:
 * 数学基础扎实，工程应用能力强，多次数学竞赛和数学建模竞赛获奖，最高奖项为美国大学生数学建模大赛一等奖（国际级）
 * 逻辑缜密，掌握计算机体系结构的基本概念，具备抽象思维，学习过[Sigma16](https://jtod.github.io/home/Sigma16/)汇编语言和Pascal、C、Java、Python主流编程语言，熟悉SQL进行数据库操作
 * 擅长汇报与沟通，合作与协调，熟悉组织架构与流程，曾任职于校学生会组织部，校科协宣传部，院辩论队和院足球队
-
-PDF简历预览
+  
+PDF简历（中文）预览
 ![pdf版本简历预览](/images/3.png)
 
 
