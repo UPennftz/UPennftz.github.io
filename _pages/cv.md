@@ -99,7 +99,7 @@ redirect_from:
 
 ## 技能
 * 英语水平：适应英文环境工作，有英美学习经历，雅思6.5，英语六级，国际人才英语考试初级
-* 编程语言：Git, Java, JavaScript, Office, R, SAS, Stata, SPSS, SQL, Vue
+* 编程软件：Git, Java, JavaScript, Latex, Markdown, Office, Overleaf, Python, R, SAS, Stata, SPSS, SQL, Matlab, Vue
 * 数据模型：  
   > 元胞自动机（车流预测）等  
   > 因果推断（PSM-DID、断点RDD、方差MANOVA）  
