@@ -98,7 +98,7 @@ redirect_from:
 3. 后端开发：在urls.py中配置和管理API路由，处理前端请求并进行数据处理。测试阶段平台用户日活跃率达75%。  
 
 ## 技能
-* 英语水平：适应英文环境工作，有英美学习经历，雅思6.5，英语六级，国际人才英语考试初级
+* 英语水平：适应英文环境工作，有英美学习经历（格拉斯哥大学和宾夕法尼亚大学），雅思6.5，英语六级，国际人才英语考试初级
 * 编程软件：Git, Java, JavaScript, Latex, Markdown, Office, Overleaf, Python, R, SAS, Stata, SPSS, SQL, Matlab, Vue
 * 数据模型：  
   > 元胞自动机（车流预测）等  
